@@ -10,9 +10,9 @@ Notes
 Notes Aurum
 -----------
 
-* I give all credit to the original package, Summerfields.
-* Modification of the sandstone are based on the original texture [Assassini Costruttori] (http://www.minecraftforum.net/topic/268340-32x13-assassini-costruttori-discontinued/).
-* Modification of the trapdoor are based on the original texture [Conquest] (http://www.minecraftforum.net/topic/1452033-174-32x32-conquest-wip-weekly-updates/).
+* I give all credit to the original package, SummerFields.
+* Modification of the sandstone are based on the original texture (Netherrack) [Assassini Costruttori] (http://www.minecraftforum.net/topic/268340-32x13-assassini-costruttori-discontinued/).
+* Modification of the trapdoor are based on the original texture (Trapdoor-ExtremeHills) [Conquest] (http://www.minecraftforum.net/topic/1452033-174-32x32-conquest-wip-weekly-updates/).
 
 Thanks
 ------
