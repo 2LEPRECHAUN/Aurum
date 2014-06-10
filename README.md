@@ -1,11 +1,18 @@
 ﻿[![SummerFields] (http://cuddlewoozle.github.io/SummerFields/signature/sign2.png) ] (http://cuddlewoozle.github.io/SummerFields)
 
-Note 
+Notes 
 ----
         
 * LithiumSound has created SummerFields. 
 * CuddleWoozle continued the texture pack. 
 * Currently external contributions are helping the package to stay updated.
+
+Notes Aurum
+-----------
+
+* I give all credit to the original package, Summerfields.
+* Modification of the sandstone are based on the original texture [Assassini Costruttori] (http://www.minecraftforum.net/topic/268340-32x13-assassini-costruttori-discontinued/).
+* Modification of the trapdoor are based on the original texture [Conquest] (http://www.minecraftforum.net/topic/1452033-174-32x32-conquest-wip-weekly-updates/).
 
 Thanks
 ------
