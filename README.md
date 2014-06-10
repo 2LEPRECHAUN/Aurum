@@ -44,7 +44,7 @@ If you play with some mod, you should download mod support for summerfields. On 
 * [Wurstknifte's Bookmod - Support] (http://adf.ly/4ABx8)
 
 * Better Than Wolves - Support
-  - [ ] NO LINK YET !
+  - NO LINK YET !
 
 History of recent updates
 -------------------------
