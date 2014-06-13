@@ -10,18 +10,18 @@ Notes
 Notes Aurum
 -----------
 
-* I give all credit to the original package, SummerFields.
+* I give all credit to the original package, [SummerFields] (http://cuddlewoozle.github.io/SummerFields).
 * Modification of the sandstone are based on the original texture (Netherrack) [Assassini Costruttori] (http://www.minecraftforum.net/topic/268340-32x13-assassini-costruttori-discontinued/).
 * Modification of the trapdoor are based on the original texture (Trapdoor-ExtremeHills) [Conquest] (http://www.minecraftforum.net/topic/1452033-174-32x32-conquest-wip-weekly-updates/).
 
 Thanks
 ------
 
-[Jolicraft] (http://www.jolicraft.com/) - My first source of inspiration!
+* [Jolicraft] (http://www.jolicraft.com/) - My first source of inspiration!
 
-[LB Photo Realisme] (http://www.minecraftforum.net/viewtopic.php?t=136785) - For the damage animation!
+* [LB Photo Realisme] (http://www.minecraftforum.net/viewtopic.php?t=136785) - For the damage animation!
 
-[Notch] (http://www.minecraft.net) - For the beautiful dark blue water & the ultra red lava! =D
+* [Notch] (http://www.minecraft.net) - For the beautiful dark blue water & the ultra red lava! =D
 
 * Milktache, for setting up SummerFields on the customizer!
 
