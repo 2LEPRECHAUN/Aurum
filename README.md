@@ -13,6 +13,7 @@ Notes Aurum
 * I give all credit to the original texture pack, [SummerFields] (http://cuddlewoozle.github.io/SummerFields).
 * Modification of the sandstone is based on the original texture (Netherrack) from [Assassini Costruttori] (http://www.minecraftforum.net/topic/268340-32x13-assassini-costruttori-discontinued/).
 * Modification of the trapdoor is based on the original texture (Trapdoor-ExtremeHills) from [Conquest] (http://www.minecraftforum.net/topic/1452033-174-32x32-conquest-wip-weekly-updates/).
+* Villagers and the witch by Lipki.
 
 Thanks
 ------
