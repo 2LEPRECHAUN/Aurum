@@ -1,5 +1,7 @@
 ﻿[![SummerFields] (http://cuddlewoozle.github.io/SummerFields/signature/sign2.png) ] (http://cuddlewoozle.github.io/SummerFields)
 
+#Aurum
+
 Notes 
 -----
         
@@ -10,10 +12,10 @@ Notes
 Notes Aurum
 -----------
 
-* I give all credit to the original texture pack, [SummerFields] (http://cuddlewoozle.github.io/SummerFields).
+* I give all credit to the original texture pack, [Forum-SummerFields] (http://www.minecraftforum.net/topic/424521-32x32-132-pre12w37a-summerfields-r29a-is-out-ready-for-the-latest-snapshot-14092012-950k-download/) - [Site-SummerFields] (http://cuddlewoozle.github.io/SummerFields).
 * Modification of the sandstone is based on the original texture (Netherrack) from [Assassini Costruttori] (http://www.minecraftforum.net/topic/268340-32x13-assassini-costruttori-discontinued/).
 * Modification of the trapdoor is based on the original texture (Trapdoor-ExtremeHills) from [Conquest] (http://www.minecraftforum.net/topic/1452033-174-32x32-conquest-wip-weekly-updates/).
-* Villagers and the witch by Lipki.
+* Modification of the Villagers and the Witch are based on the texture remake by @lipki.
 
 Thanks
 ------
@@ -54,7 +56,7 @@ If you play with some mod, you should download mod support for summerfields. On 
 * Better Than Wolves - Support
   - NO LINK YET !
 
-History of recent updates
+History of recent changes
 -------------------------
 
 8/05/2014 :
