@@ -1,6 +1,7 @@
 ﻿[![SummerFields] (http://cuddlewoozle.github.io/SummerFields/signature/sign2.png) ] (http://cuddlewoozle.github.io/SummerFields)
 
 #Aurum
+Aurum is a resource pack based on Summerfields. In fact there are only modifications of the original textures, some more, some less. The proposal is to improve the decorative and constructive look.
 
 Notes 
 -----
@@ -12,10 +13,10 @@ Notes
 Notes Aurum
 -----------
 
-* I give all credit to the original texture pack, [Forum-SummerFields] (http://www.minecraftforum.net/topic/424521-32x32-132-pre12w37a-summerfields-r29a-is-out-ready-for-the-latest-snapshot-14092012-950k-download/) - [Site-SummerFields] (http://cuddlewoozle.github.io/SummerFields).
+* I give all credit to the original texture pack, SummerFields; [Forum] (http://www.minecraftforum.net/topic/424521-32x32-132-pre12w37a-summerfields-r29a-is-out-ready-for-the-latest-snapshot-14092012-950k-download/) - [Site] (http://cuddlewoozle.github.io/SummerFields).
 * Modification of the sandstone is based on the original texture (Netherrack) from [Assassini Costruttori] (http://www.minecraftforum.net/topic/268340-32x13-assassini-costruttori-discontinued/).
 * Modification of the trapdoor is based on the original texture (Trapdoor-ExtremeHills) from [Conquest] (http://www.minecraftforum.net/topic/1452033-174-32x32-conquest-wip-weekly-updates/).
-* Modification of the Villagers and the Witch are based on the texture remake by @lipki.
+* Modification of the Villagers and the Witch are based on the texture remake by Lipki - [Enigma] (http://www.minecraftforum.net/topic/2614304-32x-enigma/).
 
 Thanks
 ------
@@ -56,90 +57,51 @@ If you play with some mod, you should download mod support for summerfields. On 
 * Better Than Wolves - Support
   - NO LINK YET !
 
-History of recent changes
--------------------------
+Historic of changes in Aurum
+----------------------------
 
-8/05/2014 :
-* Added support for future release 1.8
-  - enchanting table with lapis
-  - new iron trapdooor
-  - new slime block
-  - new 3 stones
-  - new endermite
- 
-* Changes
-  - best new plant
-  - rotation of redstone_dust_line.png
-  - Enderman head
-  - new steve skin
-  - new mojang logo
+* Support to future 1.8 version
+  - slime_block;
+  - sea_lantern;
+  - prismarine_dark;
+  - prismarine_rough;
+  - endermite
+  - Stones granite, andesite and diorite;
+    - by lipki
+  - item-barrier
+    - by lipki
+  - sponge_wet;
+    - by muink
+  - coarse_dirt;
+    - by debugman18
 
-21/11/2013 :
-* Changes
-  - clay.png
-    - To make it more compatible with blocks hardened clay.
-  - furnace_front_on.png & furnace_front_on.png.mcmeta
-  - command_block.png & command_block.png.mcmeta
-  - blaze_rod.png & blaze_rod.png.mcmeta
+* Big modifications
+  - All wooden planks;
+  - sandstone;
+  - coal_block;
+  - lapis_block;
+  - clay_block;
+  - trapdoor;
+  - GUI-stream_indicator;
+  - GUI-spectator_widgets;
+  - GUI-stats_icons
 
-  - diamond_ore.png & diamond_ore.png.mcmeta
-  - tallgrass.png & tallgrass.png.mcmeta
-    - More lightweight.
-  
-  - fire_layer_0.png & fire_layer_0.png.mcmeta
-  - fire_layer_1.png & fire_layer_1.png.mcmeta
-    - New fire.
-  
-  - comparator_on.png
-  - comparator_off.png
-  - repeater_on.png
-  - repeater_off.png
-    - Show the ability to connect it to the side.
-  
-  - comparator.png
-  - repeater.png
-    - Finally real items
-  
-  - door_wood_lower.png
-  - door_wood_upper.png
-    - Mouth the hole on the side.
+* Medium modifications
+  - Witch;  
+  - Villagers;
+  - flower_rose;
+  - flower_dandelion;
+  - flower_allium;
+  - ctm-grass_top;
+  - ctm-waterlily;
+  - ctm-vines;
+  - ctm-mushroom_blocks red and brown;
+  - GUI-widgets
 
-  - dispenser_front_vertical.png
-  - dropper_front_vertical.png
-  - hopper.png
-  - minecart_tnt.png
-  - leaves_birch_opaque.png & leaves_oak_opaque.png
-    - Better texture.
-  
-  - flower_rose.png
-    - Better in the hands of golems.
-  
-  - enderman_eyes.png
-  - spider_eyes.png
-    - Correction of the white effect.
-  
-  - arrow.png
-    - Removing the rear, ugly and useless.
-  
-  - end_sky.png
-    - Mitigation stripes.
-  
-  - achievement_background.png
-    - To avoid overflow.
-
-  - minecraft.png
-    - New title for Minecraft Realms.
-  
-  - icons.png
-  - particles
-    - Completed.
- 
-  - apple.png
-  - apple_golden.png
-    - The pre-cut apple does not fall the trees.
-  
-  - magma_cream.png
-    - Remain cubic.
-
-  - slimeball.png
-    - Just one.
+* Little modifications
+  - All saplings;
+  - hay_bale;
+  - clay_ball;
+  - sunflower;
+  - item-coal;
+  - particle-footprint;
