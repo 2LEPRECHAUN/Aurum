@@ -37,7 +37,7 @@ Thanks
 
 * Lipki, for making the horse armor, markings and horses (and, initially, converting the texture pack to a resource pack)!
 
-* SilverLimit, for the new quartz block textures!
+* SilverLimit, for the new quartz block textures and for the Podzol!
 
 * Card, for Feed the Beast mod support.
 
