@@ -13,7 +13,7 @@ Notes
 Notes Aurum
 -----------
 
-* I give all credit to the original texture pack, SummerFields; [Forum] (http://www.minecraftforum.net/topic/424521-32x32-132-pre12w37a-summerfields-r29a-is-out-ready-for-the-latest-snapshot-14092012-950k-download/) - [Site] (http://cuddlewoozle.github.io/SummerFields).
+* I give all credit to the original texture pack, SummerFields; [Forum] (http://www.minecraftforum.net/topic/424521-32x32-132-pre12w37a-summerfields-r29a-is-out-ready-for-the-latest-snapshot-14092012-950k-download/) - [Site] (http://summerfields.github.io/official/).
 * Modification of the sandstone is based on the original texture (Netherrack) from [Assassini Costruttori] (http://www.minecraftforum.net/topic/268340-32x13-assassini-costruttori-discontinued/).
 * Modification of the trapdoor is based on the original texture (Trapdoor-ExtremeHills) from [Conquest] (http://www.minecraftforum.net/topic/1452033-174-32x32-conquest-wip-weekly-updates/).
 * Modification of the Villagers and the Witch are based on the texture remake by Lipki - [Enigma] (http://www.minecraftforum.net/topic/2614304-32x-enigma/).
